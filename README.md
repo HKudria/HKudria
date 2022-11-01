@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @HKudria
-- 👀 I’m interested in IT
-- 🌱 I’m learnd PHP at TEB school
+- 👀 Interest in IT
+- 🌱 I’m learning JS at RS school 
+- 🌱 I learnd PHP at TEB school
 - 🌱 I had been learning Java before
-- 💞️ Work in Primesoft Polska Sp z o.o.  
-- 📫 How to reach me herman.kudria@icloud.com
+- 🌱 I had graduated from Cherkasy State Business College as software engineer
+- 💞️ Work in Primesoft Polska Sp z o.o. as PHP developr ( + ts/react )  
+- 📫 How to reach me herman.kudria@icloud.com 
 
 <!---
 HKudrya/HKudrya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
