@@ -4,7 +4,7 @@
 - 🌱 I learnd PHP at TEB school
 - 🌱 I had been learning Java before
 - 🌱 I had graduated from Cherkasy State Business College as software engineer
-- 💞️ Work in Primesoft Polska Sp z o.o. as PHP developr ( + ts/react )  
+- 💞️ Work in NicmanGroup as PHP developr
 - 📫 How to reach me herman.kudria@icloud.com 
 
 <!---
